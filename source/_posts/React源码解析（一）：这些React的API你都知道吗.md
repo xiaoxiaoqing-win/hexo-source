@@ -1,8 +1,12 @@
 ---
 title: React源码解析（一）：这些React的API你都知道吗
-date: 2020-04-29 18:05:44
-tags:
+catalog: true
+date: 2019年07月30日
+top: false
+tags: React
+categories: 框架
 ---
+
 <div class="output_wrapper" id="output_wrapper_id" style="font-size: 15px; color: rgb(62, 62, 62); line-height: 1.8; word-spacing: 2px; letter-spacing: 2px; font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif; background-image: linear-gradient(90deg, rgba(50, 0, 0, 0.05) 3%, rgba(0, 0, 0, 0) 3%), linear-gradient(360deg, rgba(50, 0, 0, 0.05) 3%, rgba(0, 0, 0, 0) 3%); background-size: 20px 20px; background-position: center center;"><h2 id="h" style="color: inherit; line-height: inherit; padding: 0px; margin: 1.6em 0px; font-weight: bold; font-size: 1.4em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">写在前面</span></h2>
 <p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 1.7em 0px;">Vue、React和Angular成为了前端工作者最常用的三大框架。分析其源码，对我们技术的提升有着至关重要的作用，我们先分析React源码，本篇文章将从其最常用的API说起</p>
 <h2 id="h-1" style="color: inherit; line-height: inherit; padding: 0px; margin: 1.6em 0px; font-weight: bold; font-size: 1.4em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">一、准备开始</span></h2>
