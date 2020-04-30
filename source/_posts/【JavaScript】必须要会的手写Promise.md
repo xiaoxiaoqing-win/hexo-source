@@ -1,6 +1,6 @@
 ---
 title: 【JavaScript】必须要会的手写Promise
-top: false
+top: true
 cover: false
 toc: true
 mathjax: true

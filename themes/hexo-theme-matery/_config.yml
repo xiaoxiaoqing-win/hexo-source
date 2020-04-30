@@ -60,8 +60,8 @@ cover:
 dream:
   enable: false
   showTitle: false
-  title: 人生座右铭
-  text: 不是每个人都应该像我这样去建造一座水晶大教堂，但是每个人都应该拥有自己的梦想，设计自己的梦想，追求自己的梦想，实现自己的梦想。梦想是生命的灵魂，是心灵的灯塔，是引导人走向成功的信仰。有了崇高的梦想，只要矢志不渝地追求，梦想就会成为现实，奋斗就会变成壮举，生命就会创造奇迹。——罗伯·舒乐
+#  title: 人生座右铭
+  text: 天将降大任于斯人也，必先苦其心志，劳其筋骨...
 
 # Whether to display the musics.
 # 是否在首页显示音乐.
@@ -512,10 +512,9 @@ subtitle:
   loop: true # 是否循环
   showCursor: true # 是否显示光标
   startDelay: 300 # 开始延迟
-  typeSpeed: 100 # 打字速度
+  typeSpeed: 300 # 打字速度
   backSpeed: 50 # 删除速度
-  sub1: 你会看得见那束光～
-  sub2: work forward~
+  sub1: 路漫漫其修远兮\，吾将上下而求索～
 
 # 手机二级菜单.
 navMenu:

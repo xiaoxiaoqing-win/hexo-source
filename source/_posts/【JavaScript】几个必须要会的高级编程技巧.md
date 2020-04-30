@@ -1,6 +1,6 @@
 ---
 title: 【JavaScript】几个必须要会的高级编程技巧
-top: false
+top: true
 cover: false
 toc: true
 mathjax: true
