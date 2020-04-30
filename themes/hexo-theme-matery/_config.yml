@@ -139,9 +139,9 @@ socialLink:
 # 是否激活文章 TOC 功能，并配置TOC支持选中哪些标题类型，这是全局配置。
 # 可以在某篇文章的 Front-matter 中再加上`toc: false`，使该篇文章关闭TOC目录功能
 toc:
-  enable: true
-  heading: h2, h3, h4
-  collapseDepth: 0 # 目录默认展开层级
+  enable: false
+  heading: h1, h2, h3, h4, h5, h6
+  collapseDepth: 3 # 目录默认展开层级
   showToggleBtn: true # 是否显示切换TOC目录展开收缩的按钮
 
 # 代码块相关
@@ -196,7 +196,7 @@ clicklove:
 # profile in about page, including avatars, career, and personal introductions.
 # 在”关于”页面中配置个人信息，包括头像、职业和个人介绍.
 profile:
-  avatar: /medias/avatar.jpg
+  avatar: /medias/ava.jpg
   career: 前端开发工程师
   introduction: work forward!
 
