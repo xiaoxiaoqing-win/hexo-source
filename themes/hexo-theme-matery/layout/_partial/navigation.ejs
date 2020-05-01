@@ -1,7 +1,7 @@
 <%
     var menuMap = new Map();
     menuMap.set("Home", "首页");
-    // menuMap.set("Tags", "标签");
+    menuMap.set("Tags", "标签");
     menuMap.set("Categories", "分类");
     menuMap.set("Archives", "归档");
     menuMap.set("About", "关于");
@@ -47,11 +47,11 @@
     <% } %>
   </li>
   <% }); %>
-  <li>
-    <a href="#searchModal" class="modal-trigger waves-effect waves-light">
-      <i id="searchIcon" class="fas fa-search" title="<%= __('search') %>" style="zoom: 0.85;"></i>
-    </a>
-  </li>
+<!--  <li>-->
+<!--    <a href="#searchModal" class="modal-trigger waves-effect waves-light">-->
+<!--      <i id="searchIcon" class="fas fa-search" title="<%= __('search') %>" style="zoom: 0.85;"></i>-->
+<!--    </a>-->
+<!--  </li>-->
 </ul>
 
 <%- partial('_partial/mobile-nav') %>
