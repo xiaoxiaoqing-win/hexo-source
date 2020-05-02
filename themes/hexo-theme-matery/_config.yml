@@ -261,7 +261,7 @@ myGallery:
   data:
     - /medias/featureimages/0.jpg
     - /medias/featureimages/1.jpg
-    - /medias/featureimages/2.jpg
+    - /medias/featureimages/1.jpg
 
 # Whether to display post-calender in the `archive` page
 # 设置在归档页面中是否显示'文章日历'控件
@@ -417,10 +417,10 @@ libs:
 featureImages:
 - /medias/featureimages/0.jpg
 - /medias/featureimages/1.jpg
+- /medias/featureimages/1.jpg
 - /medias/featureimages/2.jpg
 - /medias/featureimages/3.jpg
 - /medias/featureimages/4.jpg
-- /medias/featureimages/5.jpg
 - /medias/featureimages/6.jpg
 - /medias/featureimages/7.jpg
 - /medias/featureimages/8.jpg
