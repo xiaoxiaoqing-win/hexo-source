@@ -58,10 +58,10 @@ cover:
 # index page dream text,
 # 配置首页显示"梦想"的语句.
 dream:
-  enable: false
-  showTitle: false
-#  title: 人生座右铭
-  text: 天将降大任于斯人也，必先苦其心志，劳其筋骨...
+  enable: true
+  showTitle: true
+  title:
+  text: 路漫漫其修远兮，吾将上下而求索～
 
 # Whether to display the musics.
 # 是否在首页显示音乐.
