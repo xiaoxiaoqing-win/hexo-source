@@ -1,10 +1,9 @@
 posts: 文章
-#category: 分类
-#categories: 分类
-#tag: 标签
-#tags: 标签
-#archives: 归档
-#about: 关于
+categories: Categories
+tag: Tag
+tags: Tags
+archives: Archives
+about: About
 contact: 留言板
 friends: 友情链接
 startRead: 开始阅读
